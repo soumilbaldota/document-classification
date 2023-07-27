@@ -1,0 +1,27 @@
+-----------------------------------
+           MEDICAL TEST REPORT
+-----------------------------------
+
+Patient Information:
+- Full Name: [Full Name]
+- Date of Birth: [Date of Birth]
+- Gender: [Gender]
+- Address: [Address]
+- Contact Number: [Contact Number]
+- Email: [Email Address]
+
+Test Details:
+- Test Name: [Test Name]
+- Test Date: [Test Date]
+- Test Result: [Test Result]
+- Reference Range: [Reference Range]
+
+Test Interpretation:
+[Test Interpretation]
+
+-----------------------------------
+Doctor's Name: [Doctor's Name]
+Doctor's Signature: [Doctor's Signature]
+Date: [Date]
+
+-----------------------------------

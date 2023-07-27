@@ -1,0 +1,15 @@
+-----------------------------------
+        TRAIN TICKET
+-----------------------------------
+
+Ticket Number: [Ticket Number]
+Date: [Date]
+Departure: [Departure Station]
+Destination: [Destination Station]
+Train: [Train Number]
+Class: [Class]
+Seat Number: [Seat Number]
+Passenger Name: [Passenger Name]
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

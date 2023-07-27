@@ -1,0 +1,44 @@
+-----------------------------------
+            DOCTOR'S REPORT
+-----------------------------------
+
+Patient Information:
+- Name: [Patient Name]
+- Date of Birth: [Date of Birth]
+- Gender: [Gender]
+- Address: [Patient Address]
+- Contact Number: [Contact Number]
+- Email: [Email Address]
+
+Medical Assessment:
+- Date of Examination: [Examination Date]
+- Chief Complaint: [Chief Complaint]
+- Medical History: [Medical History]
+- Current Medications: [Current Medications]
+- Allergies: [Allergies]
+
+Physical Examination Findings:
+- Vital Signs:
+  - Blood Pressure: [Blood Pressure]
+  - Heart Rate: [Heart Rate]
+  - Respiratory Rate: [Respiratory Rate]
+  - Temperature: [Temperature]
+- General Appearance: [General Appearance]
+- Specific Findings: [Specific Findings]
+
+Diagnosis:
+- Primary Diagnosis: [Primary Diagnosis]
+- Differential Diagnosis: [Differential Diagnosis]
+
+Treatment Plan:
+- Medications: [Medications]
+- Procedures: [Procedures]
+- Lifestyle Recommendations: [Lifestyle Recommendations]
+- Follow-up Instructions: [Follow-up Instructions]
+
+-----------------------------------
+Doctor's Name: [Doctor's Name]
+Doctor's Signature: [Doctor's Signature]
+Date: [Date]
+
+-----------------------------------

@@ -1,0 +1,15 @@
+-----------------------------------
+        PLAY TICKET
+-----------------------------------
+
+Event: [Event Name]
+Date: [Event Date]
+Time: [Event Time]
+Venue: [Event Venue]
+
+Ticket Number: [Ticket Number]
+Seat Number: [Seat Number]
+
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

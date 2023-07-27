@@ -1,0 +1,24 @@
+-----------------------------------
+         INSURANCE CLAIM FORM
+-----------------------------------
+
+Policyholder Information:
+- Name: [Policyholder Name]
+- Policy Number: [Policy Number]
+- Contact Number: [Contact Number]
+- Email: [Email Address]
+
+Claim Details:
+- Date of Loss: [Date of Loss]
+- Description of Loss: [Description of Loss]
+
+Documents Submitted:
+- [Document 1]
+- [Document 2]
+- [Document 3]
+- ...
+
+Signature: [Policyholder Signature]
+Date: [Date]
+
+-----------------------------------

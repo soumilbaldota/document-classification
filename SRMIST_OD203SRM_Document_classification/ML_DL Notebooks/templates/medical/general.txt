@@ -1,0 +1,49 @@
+-----------------------------------
+       GENERAL MEDICAL DOCUMENT
+-----------------------------------
+
+Patient Information:
+- Full Name: [Full Name]
+- Date of Birth: [Date of Birth]
+- Gender: [Gender]
+- Address: [Address]
+- Contact Number: [Contact Number]
+- Email: [Email Address]
+
+Medical Record Number: [Medical Record Number]
+Date of Visit: [Visit Date]
+
+-----------------------------------
+Medical History:
+[Medical History]
+
+-----------------------------------
+Current Symptoms:
+[Current Symptoms]
+
+-----------------------------------
+Physical Examination Findings:
+[Physical Examination Findings]
+
+-----------------------------------
+Diagnosis:
+[Diagnosis]
+
+-----------------------------------
+Treatment Plan:
+[Treatment Plan]
+
+-----------------------------------
+Prescribed Medications:
+[Prescribed Medications]
+
+-----------------------------------
+Follow-up Instructions:
+[Follow-up Instructions]
+
+-----------------------------------
+Doctor's Name: [Doctor's Name]
+Doctor's Signature: [Doctor's Signature]
+Date: [Date]
+
+-----------------------------------

@@ -1,0 +1,15 @@
+-----------------------------------
+        BUS TICKET
+-----------------------------------
+
+Ticket Number: [Ticket Number]
+Date: [Date]
+Departure: [Departure Location]
+Destination: [Destination Location]
+Bus Company: [Bus Company Name]
+Bus Number: [Bus Number]
+Seat Number: [Seat Number]
+Passenger Name: [Passenger Name]
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

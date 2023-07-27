@@ -1,0 +1,16 @@
+-----------------------------------
+        MOVIE TICKET
+-----------------------------------
+
+Movie: [Movie Title]
+Date: [Show Date]
+Time: [Show Time]
+Theater: [Theater Name]
+Screen: [Screen Number]
+Seat Number: [Seat Number]
+
+Ticket Number: [Ticket Number]
+
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

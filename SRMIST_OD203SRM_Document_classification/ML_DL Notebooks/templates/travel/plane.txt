@@ -1,0 +1,17 @@
+-----------------------------------
+        PLANE TICKET
+-----------------------------------
+
+Ticket Number: [Ticket Number]
+Date: [Date]
+Flight Number: [Flight Number]
+Departure: [Departure Airport]
+Destination: [Destination Airport]
+Departure Time: [Departure Time]
+Arrival Time: [Arrival Time]
+Airline: [Airline Name]
+Passenger Name: [Passenger Name]
+Seat Number: [Seat Number]
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

@@ -1,0 +1,21 @@
+-----------------------------------
+          ZOO TICKET
+-----------------------------------
+
+Zoo Name: [Zoo Name]
+Date: [Visit Date]
+Ticket Number: [Ticket Number]
+Adult Tickets: [Number of Adult Tickets]
+Child Tickets: [Number of Child Tickets]
+
+-----------------------------------
+Ticket Details:
+
+Admission Type: [Admission Type]
+Valid for: [Validity Period]
+Entry Time: [Entry Time]
+Exit Time: [Exit Time]
+
+-----------------------------------
+Price: [Ticket Price]
+-----------------------------------

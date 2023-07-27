@@ -1,0 +1,36 @@
+-----------------------------------
+        GENERAL MEDICAL HISTORY
+-----------------------------------
+
+Personal Information:
+- Full Name: [Full Name]
+- Date of Birth: [Date of Birth]
+- Gender: [Gender]
+- Address: [Address]
+- Contact Number: [Contact Number]
+- Email: [Email Address]
+
+Medical History:
+- Primary Care Physician: [Primary Care Physician]
+- Date of Last Visit: [Last Visit Date]
+- Chronic Conditions: [Chronic Conditions]
+- Medications: [Current Medications]
+- Allergies: [Allergies]
+
+Family Medical History:
+- Family Members with Chronic Conditions: [Family Chronic Conditions]
+- Family Members with Allergies: [Family Allergies]
+
+Surgical History:
+- Previous Surgeries: [Previous Surgeries]
+- Dates of Surgeries: [Surgery Dates]
+
+Immunization History:
+- Immunizations Received: [Immunizations Received]
+- Dates of Immunizations: [Immunization Dates]
+
+-----------------------------------
+Patient Signature: [Patient Signature]
+Date: [Date]
+
+-----------------------------------
